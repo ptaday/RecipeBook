@@ -58,7 +58,7 @@ Follow the prompts in the command-line interface to interact with the RecipeBook
 
 ## Contribution
 
-Contributions to the RipOffRental project are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please read CONTRIBUTING.md for details.
+Contributions to the RecipeBook project are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please read CONTRIBUTING.md for details.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
