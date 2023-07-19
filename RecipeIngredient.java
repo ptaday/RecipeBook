@@ -1,4 +1,4 @@
-package Homework6_InheritanceAndPolymorphism;
+
 
 public class RecipeIngredient extends Ingredient {
 
