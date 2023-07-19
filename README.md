@@ -51,10 +51,12 @@ $ cd RecipeBook
  To compile and run the code locally
 
 ```bash
-$ javac Main.java 
-$ java Main
+$ javac TestRecipeBook.java 
+$ java TestRecipeBook
 ```
 Follow the prompts in the command-line interface to interact with the RecipeBook management system. You can create recipes, add ingredients, find recipes based on ingredients, and more.
+
+Keep in my mind to create a package name and include the package name in all the classes.
 
 ## Contribution
 
