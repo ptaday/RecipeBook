@@ -1,4 +1,4 @@
-package Homework6_InheritanceAndPolymorphism;
+
 
 import Homework5_ClassesAndObjects.Horse;
 
